@@ -22,10 +22,9 @@
 Аккаунты cloud в будущем полностью будут интегрированы во все проекты weksoftware. <br>
 **Отправить заявку на регистрацию можно сайте [cloud.weksoftware.ru](https://www.cloud.weksoftware.ru/).**
 
-### P-cor
+### Pcore
 Игра в жанре sandbox и survival с космической атмосферой и pixel art графикой! <br>
-**P-cor** находится на стадии разработки. <br>
-**Предлжить свои идеи можно на нашем [сервере Discord](https://discord.gg/eKCgfGJWzG).**
+**Все доступные версии можно найти в репозитории [weksoftware/Pcore](https://github.com/weksoftware/Pcore).**
 
 ### FPGEW
 Удобный фреймворк для программ и игр с открытым исходным кодом. <br>
